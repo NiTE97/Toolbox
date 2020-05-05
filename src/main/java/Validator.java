@@ -1,5 +1,6 @@
 /**
  * Klasse zum Ueberpruefen von Werten/Eingabe
+ *test
  */
 
 public class Validator {
